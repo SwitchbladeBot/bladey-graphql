@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/SwitchbladeBot/bladey-graphql/issues"
   },
-  "homepage": "https://github.com/SwitchbladeBot/bladey-graphql#readme"
+  "homepage": "https://github.com/SwitchbladeBot/bladey-graphql#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "nodemon": "^1.18.4",
+    "standard": "^12.0.1"
+  }
 }
