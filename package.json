@@ -1,0 +1,19 @@
+{
+  "name": "bladey-graphql",
+  "version": "1.0.0",
+  "description": "Switchblade API but it's GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwitchbladeBot/bladey-graphql.git"
+  },
+  "author": "Switchblade Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwitchbladeBot/bladey-graphql/issues"
+  },
+  "homepage": "https://github.com/SwitchbladeBot/bladey-graphql#readme"
+}
