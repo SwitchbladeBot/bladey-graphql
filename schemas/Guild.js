@@ -1,9 +1,9 @@
-const User = `
-  type User {
+const Guild = `
+  type Guild {
     _id: String!
     prefix: String
     language: String
   }
 `
 
-module.exports = User;
+module.exports = Guild;
