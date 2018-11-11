@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SwitchbladeBot/bladey-graphql.svg)](https://greenkeeper.io/)
+
 <div align="center">
   <img src="https://i.imgur.com/WuEiuiZ.png"><br>
   <p>
